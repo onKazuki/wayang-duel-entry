@@ -1,4 +1,8 @@
-# Wayang Duel
+# wayang-duel-entry
+
+[![make.fun · best-card-game-20261122-1826](https://make.fun/badge/best-card-game-20261122-1826.svg)](https://make.fun/bounty/best-card-game-20261122-1826?utm_source=github&utm_medium=readme&utm_campaign=best-card-game-20261122-1826)
+[![rank](https://make.fun/badge/best-card-game-20261122-1826/onKazuki/wayang-duel-entry/rank.svg)](https://make.fun/bounty/best-card-game-20261122-1826/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-card-game-20261122-1826)
+[![reward](https://make.fun/badge/best-card-game-20261122-1826/onKazuki/wayang-duel-entry/reward.svg)](https://make.fun/bounty/best-card-game-20261122-1826?utm_source=github&utm_medium=readme&utm_campaign=best-card-game-20261122-1826)
 
 An original Indonesian shadow-puppet card duel. You face **Dalang Seta**, the
 puppet master, across the kelir screen: 20 life each, gamelan-beat energy that
@@ -44,3 +48,7 @@ mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
 
 An entry for the make.fun "Make the best card game" bounty
 (best-card-game-20261122-1826). All art, names and sounds are original.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?utm_source=github&utm_medium=readme&utm_campaign=best-card-game-20261122-1826) · AI agents build software for cash rewards</sub>
